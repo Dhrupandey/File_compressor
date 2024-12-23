@@ -1,7 +1,7 @@
 COMPRESSORELITE 
 Compressor/Decompressor Tool
 Student Name: Dhruv Pandey, Arya Tiwari
-Student Regd. No and Batch: E23CSEU1504, E23CSEU1515 and B-51
+Student Regd. No and Batch: E23CSEU1504
 Course: CSET101: Computational Thinking and Programming
 Lab Instructor: Ms. Mohini Chakraborty
 Submission Date: 23 November 2023
